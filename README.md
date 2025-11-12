@@ -77,5 +77,5 @@ I've had the privilege of building high-performance websites for a diverse range
 
 I'm always open to discussing new projects or collaboration opportunities.
 
-* **Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-username-here/)**
+* **Connect with me on [LinkedIn](https://www.linkedin.com/in/kamlesh-kamaliya/)**
 * _(Feel free to add your professional email here)_
