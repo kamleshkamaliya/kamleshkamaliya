@@ -1,7 +1,5 @@
 ## Hi there, I'm Kamlesh 👋
 
-<img align="right" width="200" src="https://raw.githubusercontent.com/kamleshKamaliya/kamleshKamaliya/main/hubspot-certified-developer.png" alt="HubSpot Certified Developer">
-
 I'm a Senior Web Developer with over 9+ years of hands-on experience, specializing in building high-performance, custom-coded web solutions from the ground up.
 
 My core expertise lies in two powerful platforms:
@@ -27,16 +25,20 @@ I'm proud to be certified and have my work recognized by the community:
 ### 🔧 What I Do Best
 
 * **🔭 I’m currently:** Engineering pixel-perfect e-commerce stores on Shopify and advanced CMS solutions on HubSpot for my clients.
-* **👯 I’m looking to collaborate on:** Challenging custom-build projects on HubSpot or Shopify that require a high-level of technical skill.
-* **🌱 I’m always learning:** Deeper headless commerce strategies and advanced Shopify Plus functionalities.
+* **👯 I’m looking to collaborate on:** Challenging custom-build projects on HubSpot, Shopify, or full-stack applications.
+* **🌱 I’m always learning:** Deeper headless commerce strategies and advanced server-side applications.
 
 ---
 
-### 💬 Ask Me About...
+### 💬 My Tech Stack & Skills
+
+Here's a breakdown of the technologies I use:
+
+* **Core Technologies:** React, Node.js, PHP, HTML5, CSS3, & JavaScript (jQuery)
+* **Platform Specialties:** HubSpot (HubL) & Shopify (Liquid)
 
 #### **HubSpot Development**
 * Custom DND Theme Development (from scratch)
-* Expert-level **HubL**, HTML5, CSS3, & jQuery
 * Complex API Integrations
 * Blog, Landing Page & Email Template Design
 * B2B Site Development
@@ -50,24 +52,24 @@ I'm proud to be certified and have my work recognized by the community:
 
 ---
 
-### 🚀 Some of My Work
+### 🚀 Project Highlights
 
-Here are a few live examples of what I can build:
+I've had the privilege of building high-performance websites for a diverse range of clients. Below are some examples of the projects I've delivered.
+
+> *Note: To respect client privacy and NDAs, I've generalized the descriptions. I am happy to provide a more detailed, private walkthrough of my work and code during a call.*
 
 #### HubSpot CMS Projects
-* [Raiffeisen VOLT](https://raiffeisenvolt.de/)
-* [True Impact](https://trueimpact.ai/)
-* [Jörg Löhr](https://www.joerg-loehr.com/)
-* [Rascal Voyages](https://www.rascalvoyages.com/)
-* [Verada Retail](https://www.veradaretail.com/)
-* [iundf-Group (PW: iundf-Group)](https://creative.iundf.com/)
+* **German Financial Services:** A complex, high-performance B2B site build.
+* **AI Technology Firm:** A modern, scalable website for a leading AI solutions provider.
+* **International Keynote Speaker:** A robust personal branding and resource site.
+* **Luxury Travel & Yachting:** A bespoke, high-end site focused on luxury experiences.
+* **US Commercial Real Estate:** A multi-faceted site for a large retail property group.
 
 #### Shopify E-commerce Projects
-* [Babba L'Occitane](https://babbacare.com/)
-* [Red Salt](https://redsaltsupps.com/)
-* [Amate](https://amatemassupplements.com/)
-* [AriZona](https://drinkarizona.com/)
-* [Derm Dude](https://dermdude.com/)
+* **Global Skincare Brand:** A custom Shopify theme and build for a major international brand.
+* **US Beverage Giant:** The official D2C e-commerce store for a well-known national brand.
+* **Health & Wellness Supplements:** A high-conversion store for a popular supplement brand.
+* **Men's Grooming:** A custom-themed Shopify store for a fast-growing D2C brand.
 
 ---
 
